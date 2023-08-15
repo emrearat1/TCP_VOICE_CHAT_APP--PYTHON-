@@ -20,5 +20,14 @@ Now it is time to connect server. Before the run client.py change this code with
 ![3](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/a729d82f-02c5-466a-8402-83ee1e8aad01)
 
 Client can do 2 things , first one is messaging someone(privately). If you write message after that program is going to ask you who do you want to message.
-![5](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/4ec9e3bc-07f2-4357-824a-b94913cfe0c4)
-![Uploading 4.png…]()
+
+![4](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/463ed047-4290-4a81-a476-d6591fc843f0)
+![5](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/5208ba6b-0811-423e-a7cb-987f8fc5a81e)
+
+Other choice is changing room. If you write change room then program is going to ask you port of the room you want to join.
+![6](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/1d041d99-b2c0-44b1-873e-9012233f92c3)
+
+Now it is time to functions of server.py. There is few commands to choice on server. Lets mute someone.
+
+![7](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/4996ce94-2f8a-4ae4-9526-b2d2268f3765)
+![8](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/ef9d2084-05f8-48c1-8c7a-80dcd8f91861)
