@@ -25,6 +25,7 @@ Now it is time to connect server. Before the run client.py change this code with
 
 
 Client can do 2 things , first one is messaging someone(privately). If you write message after that program is going to ask you who do you want to message.
+
 ![4](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/c2607b22-5482-4094-8ab3-3598438cc925)
 ![5](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/29b74ef2-7ca9-44ec-a8a3-f5fea1ca77dc)
 
