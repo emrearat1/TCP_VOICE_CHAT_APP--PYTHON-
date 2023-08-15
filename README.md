@@ -5,8 +5,9 @@ TCP Voice chat application  with Python. There are also extra TCP message chat s
 kicking someone , muting someone , unmuting someone, mute all , unmute all, show muted list methods. 
 
 When we run the server.py file, we get a screen like this. On server.py output we see Server1(main voice chat server) , server2(private message chat server) , room1(private voice chat room) , room2(private voice chat room) ip and port knowledges. 
+![1](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/fd1a7acf-d0cd-4043-b851-2a45c0fbcc6e)
 
-![1](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/6759b529-23b0-4bff-892d-d081871ffbf4)
+
 
 If a client connects to main server, client informations can seen  on the server.py output.
 
