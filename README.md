@@ -30,4 +30,5 @@ Other choice is changing room. If you write change room then program is going to
 Now it is time to functions of server.py. There is few commands to choice on server. Lets mute someone.
 
 ![7](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/4996ce94-2f8a-4ae4-9526-b2d2268f3765)
-![8](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/ef9d2084-05f8-48c1-8c7a-80dcd8f91861)
+![9](https://github.com/emrearat1/TCP_VOICE_CHAT_APP--PYTHON-/assets/69716092/0a08d8ad-faca-4445-8bc6-9138c1bbacc4)
+
