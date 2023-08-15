@@ -1,5 +1,5 @@
-                                                          TCP_VOICE_CHAT_APP ON LOCAL SERVER--PYTHON-
-                                                          TCP_VOICE_CHAT_APP (WITH PRIVATE CHAT )
+                                                  TCP_VOICE_CHAT_APP ON LOCAL SERVER--PYTHON-
+                                                  TCP_VOICE_CHAT_APP (WITH PRIVATE CHAT )
 
 TCP Voice chat application  with Python. There are also extra TCP message chat server that clients connect it simultaneously at the same time with main voice server connection. Also server1(main voice chat server) has 
 kicking someone , muting someone , unmuting someone, mute all , unmute all, show muted list methods. 
